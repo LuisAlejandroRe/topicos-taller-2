@@ -1,0 +1,44 @@
+{
+    "format": "Ubers",
+    "gen": "5",
+    "pokemonList": [
+      {
+        "name": "Arceus",
+        "item": "Mental Herb",
+        "ability": "Multitype",
+        "moves": {
+          "1": "Avalanche",
+          "2": "Ancient Power",
+          "3": "Blizzard",
+          "4": "Calm Mind"
+        },
+        "evStats": {
+          "hp": "100",
+          "atk": "52",
+          "def": "108",
+          "spa": "80",
+          "spd": "180",
+          "spe": "0"
+        }
+      },
+      {
+        "name": "Deoxys",
+        "item": "Flying Gem",
+        "ability": "Pressure",
+        "moves": {
+          "1": "Agility",
+          "2": "Dark Pulse",
+          "3": "Fire Punch",
+          "4": "Frustration"
+        },
+        "evStats": {
+          "hp": "40",
+          "atk": "164",
+          "def": "96",
+          "spa": "132",
+          "spd": "44",
+          "spe": "32"
+        }
+      }
+    ]
+  }  
