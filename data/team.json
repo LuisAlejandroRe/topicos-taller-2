@@ -1,101 +1,101 @@
 {
-    "format": "Ubers",
-    "gen": "5",
-    "pokemonList": [
-      {
-        "name": "Arceus",
-        "item": "Mental Herb",
-        "ability": "Multitype",
-        "moves": {
-          "1": "Avalanche",
-          "2": "Ancient Power",
-          "3": "Blizzard",
-          "4": "Calm Mind"
-        },
-        "evStats": {
-          "hp": "100",
-          "atk": "52",
-          "def": "108",
-          "spa": "80",
-          "spd": "180",
-          "spe": "0"
-        }
+  "format": "Ubers",
+  "gen": "5",
+  "pokemonList": [
+    {
+      "name": "Arceus",
+      "item": "Mental Herb",
+      "ability": "Multitype",
+      "moves": {
+        "1": "Avalanche",
+        "2": "Ancient Power",
+        "3": "Blizzard",
+        "4": "Calm Mind"
       },
-      {
-        "name": "Deoxys",
-        "item": "Flying Gem",
-        "ability": "Pressure",
-        "moves": {
-          "1": "Agility",
-          "2": "Dark Pulse",
-          "3": "Fire Punch",
-          "4": "Frustration"
-        },
-        "evStats": {
-          "hp": "40",
-          "atk": "164",
-          "def": "96",
-          "spa": "132",
-          "spd": "44",
-          "spe": "32"
-        }
-      },
-      {
-        "name": "Mewtwo",
-        "item": "Choice Scarf",
-        "ability": "Pressure",
-        "moves": {
-          "1": "Rock Slide",
-          "2": "Hidden Power Ground",
-          "3": "Body Slam",
-          "4": "Heal Pulse"
-        },
-        "evStats": {
-          "hp": "108",
-          "atk": "128",
-          "def": "92",
-          "spa": "88",
-          "spd": "52",
-          "spe": "40"
-        }
-      },
-      {
-        "name": "Charizard",
-        "item": "Fire Stone",
-        "ability": "Blaze",
-        "moves": {
-          "1": "Beat Up",
-          "2": "Fire Punch",
-          "3": "Smokescreen",
-          "4": "Seismic Toss"
-        },
-        "evStats": {
-          "hp": "76",
-          "atk": "124",
-          "def": "84",
-          "spa": "80",
-          "spd": "76",
-          "spe": "68"
-        }
-      },
-      {
-        "name": "Cloyster",
-        "item": "Ice Gem",
-        "ability": "Shell Armor",
-        "moves": {
-          "1": "Ice Shard",
-          "2": "Ice Beam",
-          "3": "Blizzard",
-          "4": "Avalanche"
-        },
-        "evStats": {
-          "hp": "40",
-          "atk": "252",
-          "def": "52",
-          "spa": "48",
-          "spd": "76",
-          "spe": "40"
-        }
+      "evStats": {
+        "hp": "100",
+        "atk": "52",
+        "def": "108",
+        "spa": "80",
+        "spd": "180",
+        "spe": "0"
       }
-    ]
-  }  
+    },
+    {
+      "name": "Deoxys",
+      "item": "Flying Gem",
+      "ability": "Pressure",
+      "moves": {
+        "1": "Agility",
+        "2": "Dark Pulse",
+        "3": "Fire Punch",
+        "4": "Frustration"
+      },
+      "evStats": {
+        "hp": "40",
+        "atk": "164",
+        "def": "96",
+        "spa": "132",
+        "spd": "44",
+        "spe": "32"
+      }
+    },
+    {
+      "name": "Lugia",
+      "item": "Eviolite",
+      "ability": "Pressure",
+      "moves": {
+        "1": "Blizzard",
+        "2": "Toxic",
+        "3": "Return",
+        "4": "Signal Beam"
+      },
+      "evStats": {
+        "hp": "108",
+        "atk": "128",
+        "def": "92",
+        "spa": "88",
+        "spd": "52",
+        "spe": "40"
+      }
+    },
+    {
+      "name": "Charizard",
+      "item": "Fire Stone",
+      "ability": "Blaze",
+      "moves": {
+        "1": "Beat Up",
+        "2": "Fire Punch",
+        "3": "Smokescreen",
+        "4": "Seismic Toss"
+      },
+      "evStats": {
+        "hp": "76",
+        "atk": "124",
+        "def": "84",
+        "spa": "80",
+        "spd": "76",
+        "spe": "68"
+      }
+    },
+    {
+      "name": "Cloyster",
+      "item": "Ice Gem",
+      "ability": "Shell Armor",
+      "moves": {
+        "1": "Ice Shard",
+        "2": "Ice Beam",
+        "3": "Blizzard",
+        "4": "Avalanche"
+      },
+      "evStats": {
+        "hp": "40",
+        "atk": "252",
+        "def": "52",
+        "spa": "48",
+        "spd": "76",
+        "spe": "40"
+      }
+    }
+  ]
+}
